@@ -1,0 +1,4 @@
+*.wav filter=gclfs diff=gclfs merge=gclfs -text
+*.aif filter=gclfs diff=gclfs merge=gclfs -text
+*.m4a filter=gclfs diff=gclfs merge=gclfs -text
+*.mp3 filter=gclfs diff=gclfs merge=gclfs -text
